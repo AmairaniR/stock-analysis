@@ -10,10 +10,10 @@ Overall, regarding the Yearly Return, the green stocks did significantly better 
 
 ### Execution Time
 Reagrding the execution time for the refactored code, it ran faster then the original script. 
-Execution time for the original script year 2017: 39205.69 seconds
-Execution time for the refactored script year 2017: 0.078125 seconds
-Execution time for the original script year 2018: 39159.5 seconds 
-Execution time for the refactored script year 2018: 0.06640625 seconds 
+Execution time for the original script year 2017: 39205.69 seconds [Original Script Execution Time 2017](https://github.com/AmairaniR/stock-analysis/blob/main/resources/Green_Stocks_2017.png)
+Execution time for the refactored script year 2017: 0.078125 seconds [Refactored Script Execution Time 2017](https://github.com/AmairaniR/stock-analysis/blob/main/resources/VBA_Challenge_2017.png)
+Execution time for the original script year 2018: 39159.5 seconds [Original Script Execution Time 2018](https://github.com/AmairaniR/stock-analysis/blob/main/resources/Green_stocks_2018.png)
+Execution time for the refactored script year 2018: 0.06640625 seconds [Refactored Script Execution Time 2018](https://github.com/AmairaniR/stock-analysis/blob/main/resources/VBA_Challenge_2018.png)
 
 ## Summary
 -What are the advantages or disadvantages of refactoring code? 
